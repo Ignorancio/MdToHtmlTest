@@ -1,4 +1,4 @@
-remote_theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 title: Portfolio
 description: Portfolio test
 header_pages:
